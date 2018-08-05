@@ -6,3 +6,10 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Sometimes I just want to change something on my project, but I want to
 keep it on my own and do not want others to see it.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is the function on GitHub just like the clone.
+When I want to clone other's project on GitHub, I will use fork.
+When I want to download the project in my repository I will clone.
+When I want to add a new experimental feature to my project, I will use branch.
